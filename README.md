@@ -1,8 +1,29 @@
 # Hi, I'm Evan! 👋
 
-I'm a junior in high school exploring the worlds of:
+I'm a junior in high school and enjoy:
 
-- 🤖 Robotics & Self-Driving Cars  
+- ⚛️ Physics & Math
 - 💻 Computer Science  
-- ⚛️ Physics & Math  
+- 🤖 3-D Printing 
 - 🎷 Jazz & Beatboxing
+
+## 💬 Ask me about
+- Backend web development (Python)
+- 3-D Printing
+- XXXXX
+- Photoshop
+- XXX Projects
+
+## 📅 Hobbies
+- Playing jazz
+- Improvising at the piano
+- Golf
+- Roller Coasters
+
+## 💻 Current projects
+- Developing a beatboxing app
+- Creating a music theory learning program
+
+## 📚 Learning
+- C++
+- Blockchain
