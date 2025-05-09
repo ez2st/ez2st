@@ -1,6 +1,6 @@
 # Hi, I'm Evan! 👋
 
-I'm a junior in high school and enjoy:
+I'm a rising senior in high school and enjoy:
 
 - ⚛️ Physics & Math
 - 💻 Computer Science  
