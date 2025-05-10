@@ -6,8 +6,7 @@ I'm a rising senior in high school and enjoy:
 - 🎷 Jazz & Beatboxing
 
 ## 💻 Working on
-- [Music theory education platform](https://github.com/ez2st/Music-Theory)
-- Beatboxing app
+- [Boots 'n Battles](https://github.com/ez2st/boots-n-battles) — a social hub for beatboxing 🎤🔥
 
 ## 📚 Learning
 - C++
