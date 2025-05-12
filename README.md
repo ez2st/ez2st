@@ -11,3 +11,4 @@ I'm a rising senior in high school and enjoy:
 ## 📚 Learning
 - C++
 - Blockchain
+- AI
